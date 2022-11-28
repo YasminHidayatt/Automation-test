@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite,Chrome 107.0.0.0,,,2022-11-28 21:02:53,2022-11-28 21:04:05,1m - 11.655s,PASSED
+,,,,,,,
+Test Cases/Main Test Case/001_LoginSucces,Chrome 107.0.0.0,,,2022-11-28 21:02:55,2022-11-28 21:03:33,38.796s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-28 21:02:57,2022-11-28 21:03:08,11.455s,PASSED
+"navigateToUrl(""https://id-id.facebook.com/"")",Chrome 107.0.0.0,,,2022-11-28 21:03:08,2022-11-28 21:03:12,4.088s,PASSED
+"setText(findTestObject(""Page_Facebook - Masuk atau Daftar/input_Facebook_Email""), Email)",Chrome 107.0.0.0,,,2022-11-28 21:03:12,2022-11-28 21:03:15,2.264s,PASSED
+"setEncryptedText(findTestObject(""Page_Facebook - Masuk atau Daftar/input_Facebook_Password""), Password)",Chrome 107.0.0.0,,,2022-11-28 21:03:15,2022-11-28 21:03:16,1.560s,PASSED
+"click(findTestObject(""Page_Facebook - Masuk atau Daftar/button_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 21:03:16,2022-11-28 21:03:17,1.145s,PASSED
+"verifyElementPresent(findTestObject(""Page_Facebook - Masuk atau Daftar/a_Beranda""), 3)",Chrome 107.0.0.0,,,2022-11-28 21:03:17,2022-11-28 21:03:31,13.523s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-28 21:03:31,2022-11-28 21:03:33,2.341s,PASSED
+,,,,,,,
+Test Cases/Main Test Case/002_LoginFailed,Chrome 107.0.0.0,,,2022-11-28 21:03:33,2022-11-28 21:04:05,31.140s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-28 21:03:35,2022-11-28 21:03:39,3.534s,PASSED
+"navigateToUrl(""https://id-id.facebook.com/"")",Chrome 107.0.0.0,,,2022-11-28 21:03:39,2022-11-28 21:03:44,5.386s,PASSED
+"setText(findTestObject(""Page_Facebook - Masuk atau Daftar/input_Facebook_Email""), Email)",Chrome 107.0.0.0,,,2022-11-28 21:03:44,2022-11-28 21:03:53,8.564s,PASSED
+"setText(findTestObject(""Page_Facebook - Masuk atau Daftar/input_Facebook_Password""), Password)",Chrome 107.0.0.0,,,2022-11-28 21:03:53,2022-11-28 21:03:54,1.396s,PASSED
+"click(findTestObject(""Page_Facebook - Masuk atau Daftar/button_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 21:03:54,2022-11-28 21:03:55,0.793s,PASSED
+"verifyElementPresent(findTestObject(""Page_Facebook - Masuk atau Daftar/div_The password that youve entered is incorrect. Forgotten password""), 3)",Chrome 107.0.0.0,,,2022-11-28 21:03:55,2022-11-28 21:04:03,8.027s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-28 21:04:03,2022-11-28 21:04:05,1.785s,PASSED

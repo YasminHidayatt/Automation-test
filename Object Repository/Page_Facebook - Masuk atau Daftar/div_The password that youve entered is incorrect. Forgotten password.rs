@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The password that youve entered is incorrect. Forgotten password</name>
+   <tag></tag>
+   <elementGuidId>efaabe10-a76e-4af4-9619-01ad48e96b65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._9ay7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loginform']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea266cad-d3c3-4cf9-a753-390ba7f44b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9ay7</value>
+      <webElementGuid>a4273d74-3566-429e-9547-05e5f304261b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The password that you've entered is incorrect. Forgotten password?</value>
+      <webElementGuid>2790fa95-45e4-46aa-9537-df0303722fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginform&quot;)/div[@class=&quot;clearfix _5466 _44mg&quot;]/div[@class=&quot;_9ay7&quot;]</value>
+      <webElementGuid>523c7819-69f5-4044-a4c1-825de7c857fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginform']/div[2]/div[2]</value>
+      <webElementGuid>aff61180-f11c-441f-92d7-873820be6152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not you?'])[1]/following::div[10]</value>
+      <webElementGuid>3be6c642-6d4b-4f10-aabc-95fec942045d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::div[1]</value>
+      <webElementGuid>94739a33-6982-4271-a233-fc0dce1fb5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div[2]</value>
+      <webElementGuid>b34095d8-f894-4f2d-9b84-a09c4549b278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;The password that you&quot; , &quot;'&quot; , &quot;ve entered is incorrect. Forgotten password?&quot;) or . = concat(&quot;The password that you&quot; , &quot;'&quot; , &quot;ve entered is incorrect. Forgotten password?&quot;))]</value>
+      <webElementGuid>b162e6f6-de2f-461b-9cdc-a2e49f528c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

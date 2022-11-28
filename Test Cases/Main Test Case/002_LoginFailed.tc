@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_LoginFailed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>795da847-7221-44fd-b2ac-1a23eb884c40</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46b85200-3267-4099-b07b-961f1ee2536d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>286a570d-3469-41ec-8154-5e5d7e87415c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'yasminhidayat9@gmail.com'</defaultValue>
+      <description></description>
+      <id>46b85200-3267-4099-b07b-961f1ee2536d</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Failed'</defaultValue>
+      <description></description>
+      <id>286a570d-3469-41ec-8154-5e5d7e87415c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
